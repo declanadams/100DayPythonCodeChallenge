@@ -1,2 +1,1 @@
-# 100DayPythonCodeChallenge
-100 Day Python Code Challenge
+Python coding classes and projects i have done
